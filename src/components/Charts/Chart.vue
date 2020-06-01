@@ -3,7 +3,8 @@
 </template>
 
 <script>
-    import { Chart } from 'frappe-charts/dist/frappe-charts.min.esm'
+    import { Chart } from 'frappe-charts/dist/frappe-charts.min.esm';
+    import 'frappe-charts/dist/frappe-charts.min.css';
 
     let updateTimer
     
